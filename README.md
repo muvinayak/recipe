@@ -3,7 +3,7 @@
 ### This is a LOCAL change :)
 # Chocolate Chip Cookies
 line 2 changed remotely
-For this, you will need :
+**For this, you will need** :
 1. butter
 2. all-purpose flour
 3. chocolate chips
