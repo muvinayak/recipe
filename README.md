@@ -2,6 +2,9 @@
 
 ### This is a LOCAL change :)
 # Chocolate Chip Cookies
+
+![Chocolate Chip Cookies](recipe.jpg)
+
 line 2 changed remotely
 **For this, you will need** :
 1. butter
